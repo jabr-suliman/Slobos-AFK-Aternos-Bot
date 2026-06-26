@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "fqha",
   "bot-account": {
     "username": "Slobot00",
-    "password": "123456123456",
+    "password": "chalol78",
     "type": "online"
   },
   "server": {
     "ip": "jabr2013u-Yai0.aternos.me",
     "port": 54469,
     "version": "1.21",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to vinus",
         "I like to play Minecraft!"
       ]
     },
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.gg/G93N3Z4ZV",
     "events": {
       "connect": true,
-      "disconnect": true,
-      "chat": false
+      "disconnect": false,
+      "chat": true
     }
   },
   "chat": {
